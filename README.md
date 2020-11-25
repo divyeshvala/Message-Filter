@@ -2,7 +2,7 @@
 ## Filtering SMS messages
 
 ### Overview
-* Covid19 is a terrible thing happened to humanity. It is very important that people follow social distancing norms in such times. That is where Covid Tracer application can be helpfull. Using this app you can keep eye on your actions and change you behavior accordingly.
+* ...
 
 ### Table of Contents
 * [Idea](#idea)
