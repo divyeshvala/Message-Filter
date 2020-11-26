@@ -24,7 +24,9 @@
 6. CSS
 
 ### App Snapshots
-Coming soon
+![Homepage 1](https://github.com/divyeshvala/Message-Filter/blob/main/snapshots/homepage1.png?raw=true "Title")
+![Homepage 2](https://github.com/divyeshvala/Message-Filter/blob/main/snapshots/homepage2.png?raw=true "Title")
+![Result page](https://github.com/divyeshvala/Message-Filter/blob/main/snapshots/result.png?raw=true "Title")
 
 ### Contributors
 * [Divyesh Vala](https://github.com/divyeshvala)
