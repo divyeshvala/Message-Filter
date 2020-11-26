@@ -49,7 +49,7 @@ def predict():
 		vect = cv.transform(data).toarray()
 		print(vect)
 		my_prediction = clf.predict(vect)
-	return render_template('result.html',prediction = my_prediction)
+	return render_template('result.html', prediction = my_prediction, message=message)
 
 if __name__ == '__main__':
 	app.run(debug=True)
